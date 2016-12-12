@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!--bottom bar tabs defining id, icon, and title for each tab-->
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        barColorWhenSelected="#4FC3F7"
+        icon="@drawable/ic_home"
+        id="@+id/tab_home"
+        title="Home" />
+    <tab
+        barColorWhenSelected="#9E9E9E"
+        icon="@drawable/ic_camera"
+        id="@+id/tab_camera"
+        title="Camera" />
+    <tab
+        barColorWhenSelected="#FFC107"
+        icon="@drawable/ic_profile"
+        id="@+id/tab_profile"
+        title="Profile" />
+</tabs>
